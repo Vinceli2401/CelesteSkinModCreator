@@ -1,0 +1,9 @@
+SkinId: "Author_Skin"
+SkinDialogKey: "Author_Skin_Skin_Name"
+HairColors:
+  - Dashes: 0
+    Color: "Dash0"
+  - Dashes: 1
+    Color: "Dash1"
+  - Dashes: 2
+    Color: "Dash2"
